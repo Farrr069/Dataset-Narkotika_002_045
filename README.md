@@ -33,8 +33,8 @@ File `Overview.xlsx` menyajikan data terstruktur dari dokumen PDF, meliputi:
 
 📁 Dataset-Narkotika_002_045/
 ├── 📁 Dataset/
-│   └── NARKOTIKA.zip
+│ └── NARKOTIKA.zip
 ├── 📁 Overview/
-│   └── Overview.xlsx
+│ └── Overview.xlsx
 └── README.md
 
