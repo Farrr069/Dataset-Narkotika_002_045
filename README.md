@@ -1,6 +1,8 @@
 # 📁 Dataset: Putusan Tindak Pidana Narkotika (2024–2025) – Indonesia
 
-**Kategori:** Kriminal | **Subkategori:** Narkotika | **Wilayah:** Jawa Tengah (Semarang) 
+**Kategori:** Kriminal  
+**Subkategori:** Narkotika  
+**Wilayah:** Jawa Tengah (Semarang)  
 **Sumber:** Direktori Putusan Mahkamah Agung RI  
 **Jumlah Dokumen:** 50 file PDF + 1 file Excel rekap  
 **Tahun Putusan:** 2024–2025
